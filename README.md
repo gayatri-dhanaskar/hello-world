@@ -1,2 +1,4 @@
 # hello-world
-hello-world test
+Hiii,
+I am Gayatri Chikhalkar.
+This is my first time to use a git hub.
